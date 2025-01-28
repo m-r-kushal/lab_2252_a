@@ -19,7 +19,7 @@ function CategoryPage() {
                                  alt="alt text"/>
                         </div>
                         <div className="col-9 p-2">
-                            <h2> Example food Category  Template </h2>
+                            <h2> Example Meal Category  Template </h2>
                             <p>Dummy food Description. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cum quasi reiciendis
                                 rerum. Accusamus aliquid aspernatur assumenda cum deleniti distinctio dolore dolores,
                                 enim esse eveniet explicabo, fuga fugit illo ipsum iste itaque iure laudantium libero
